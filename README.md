@@ -60,7 +60,7 @@ Thank you for considering contributing to the Laravel framework! The contributio
 First, open your terminal or command prompt and clone the Laravel project from GitHub (or any Git platform):
 
 ```bash
-git clone https://github.com/DeeproArko/Pregnency_app.git
+git clone https://github.com/DeeproArko/Institution_app.git
 ```
 
 Replace `username` and `repository-name` with the actual GitHub username and repository name.
