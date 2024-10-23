@@ -1,0 +1,5 @@
+[18-Aug-2024 04:26:22 UTC] PHP Warning:  require(/home/srmanhmj/news.softspark.xyz/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/srmanhmj/news.softspark.xyz/index.php on line 34
+[18-Aug-2024 04:26:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/srmanhmj/news.softspark.xyz/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/srmanhmj/news.softspark.xyz/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/srmanhmj/news.softspark.xyz/index.php on line 34
